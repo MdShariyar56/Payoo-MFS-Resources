@@ -1,0 +1,21 @@
+{
+  "name": "payoo-mfs-resources",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdShariyar56/Payoo-MFS-Resources.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MdShariyar56/Payoo-MFS-Resources/issues"
+  },
+  "homepage": "https://github.com/MdShariyar56/Payoo-MFS-Resources#readme"
+}
